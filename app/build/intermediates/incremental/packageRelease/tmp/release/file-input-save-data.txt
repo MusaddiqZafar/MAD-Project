@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jun 23 12:15:01 PKT 2019
+0.baseType=DIRECTORY
+0.base=/Users/musaddiq/Desktop/MAD-Project/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
